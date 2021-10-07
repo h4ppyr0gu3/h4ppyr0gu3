@@ -1,4 +1,3 @@
-# David Rogers
 ## Web Developer | Ruby on Rails 
 interested in: 
 - DevOps
