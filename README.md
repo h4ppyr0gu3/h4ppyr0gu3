@@ -10,8 +10,8 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 
 #### Projects
 
-- [] create .deb package
-- [] create CI/CD pipeline for musicApp
-- [] create notes app for Linux
+- [-] create .deb package
+- [x] create CI/CD pipeline for musicApp
+- [y] create notes app for Linux
 
 #### Learning paths
