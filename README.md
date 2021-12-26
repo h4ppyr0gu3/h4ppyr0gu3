@@ -18,6 +18,7 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 - [ ] password manager
 - [ ] kde connect remake for gnome and constant sync
 - [ ] rsync scrypt to sync password managers and cookies leaving google
+- [ ] logfile cronjob on my pc
 
 #### Learning paths / interesting technologies i want to look into
 
