@@ -10,13 +10,11 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 
 #### Projects
 
-- [ ] create notes app for Linux(rust/c/go)
-- [ ] create .deb package(notes app)
+- [ ] create .deb package
 - [ ] create CI/CD pipeline for musicApp
 - [ ] update frontend for musicApp
 - [ ] create blog and personal website builder 
 - [ ] password manager
-- [ ] kde connect remake for gnome and constant sync
 - [ ] rsync scrypt to sync password managers and cookies leaving google
 - [ ] logfile cronjob on my pc
 
@@ -26,7 +24,4 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 - [ ] go
 - [ ] elixir
 - [ ] programming GPIO pins raspberry pi / arduino
-- [x] latex
-- [ ] graphdb
 - [ ] python
-- [ ] graphics API/system APIs
