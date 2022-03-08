@@ -10,7 +10,7 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 
 #### Projects
 
-- [ ] create .deb package
+- [ ] create .deb package/flatpak
 - [ ] create CI/CD pipeline for musicApp
 - [ ] update frontend for musicApp
 - [ ] create blog and personal website builder 
