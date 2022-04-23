@@ -10,18 +10,14 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 
 #### Projects
 
-- [ ] create .deb package/flatpak
 - [ ] create CI/CD pipeline for musicApp
-- [ ] update frontend for musicApp
 - [ ] create blog and personal website builder 
-- [ ] password manager
-- [ ] rsync scrypt to sync password managers and cookies leaving google
+- [ ] rsync scrypt to sync dotfiles
 - [ ] logfile cronjob on my pc
 
 #### Learning paths / interesting technologies i want to look into
 
-- [ ] rust
-- [ ] go
+- [x] crystal
 - [ ] elixir
 - [ ] programming GPIO pins raspberry pi / arduino
 - [ ] python
