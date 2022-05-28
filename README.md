@@ -11,7 +11,7 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 #### Projects
 
 - [ ] create CI/CD pipeline for musicApp
-- [ ] create blog and personal website builder 
+- [x] create blog and personal [website](https://h4ppyr0gu3.github.io/)
 - [ ] rsync scrypt to sync dotfiles
 - [ ] logfile cronjob on my pc
 
