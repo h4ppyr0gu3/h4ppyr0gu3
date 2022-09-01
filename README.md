@@ -20,4 +20,3 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 - [x] crystal
 - [ ] elixir
 - [ ] programming GPIO pins raspberry pi / arduino
-- [ ] python
