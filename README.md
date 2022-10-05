@@ -50,5 +50,7 @@ The projects I am most proud of are:
 
 ### Blog Posts :
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 visit my [github.io](https://h4ppyr0gu3.github.io/) blog
