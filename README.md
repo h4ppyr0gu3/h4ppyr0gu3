@@ -1,9 +1,9 @@
 ## Web Developer | Ruby on Rails 
 
-I am a Linux enthusiast and prefer to self host where possible
-The projects I am most proud of are:
+I am a Linux enthusiast and over the top about open source software
+
+Here is a PKGBUILD for my dotfiles 
 - [ZimOS](https://github.com/h4ppyr0gu3/zimos)
-- [Mapp](https://github.com/h4ppyr0gu3/mapp)
 
 #### Languages:
 <div>
