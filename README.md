@@ -1,37 +1,9 @@
 ## Web Developer | Ruby on Rails 
-interested in: 
-- DevOps
-- Web development(obviously)
-- Linux
 
-visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of everything
-
-### Future projects and Learning path
-
-#### Projects
-
-- [ ] create CI/CD pipeline for musicApp
-- [x] create blog and personal [website](https://blog.h4ppyr0gu3.one/)
-- [ ] rsync scrypt to sync dotfiles
-- [ ] logfile cronjob on my pc
-
-#### Learning paths / interesting technologies i want to look into
-
-- [x] crystal
-- [ ] elixir
-- [ ] programming GPIO pins raspberry pi / arduino
-
-<div id="badges">
-  <a href="www.linkedin.com/in/david-pj-rogers">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/h4ppyr0gu3">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/h4ppyr0gu3">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+I am a Linux enthusiast and prefer to self host where possible
+The projects I am most proud of are:
+- [ZimOS](https://github.com/h4ppyr0gu3/zimos)
+- [Mapp](https://github.com/h4ppyr0gu3/mapp)
 
 #### Languages:
 <div>
@@ -64,6 +36,7 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 #### Currenly learning: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="40" height="40"/>&nbsp; -->
 </div>
 
@@ -76,3 +49,6 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 ---
 
 ### Blog Posts :
+
+
+visit my [github.io](https://h4ppyr0gu3.github.io/) blog
