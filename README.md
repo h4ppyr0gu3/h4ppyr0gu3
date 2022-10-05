@@ -71,6 +71,7 @@ visit my [github.io](https://h4ppyr0gu3.github.io/) page for a full list of ever
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=h4ppyr0gu3&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4ppyr0gu3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
