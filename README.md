@@ -51,6 +51,9 @@ Here is a PKGBUILD for my dotfiles
 ### Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to Unix Shell Commands](https://dev.to/h4ppyr0gu3/intro-to-unix-shell-commands-50j1)
+- [Custom Domain Names and Subdomains for Development](https://dev.to/h4ppyr0gu3/custom-domain-names-and-subdomains-for-development-14i2)
+- [The Journey to Arch](https://dev.to/h4ppyr0gu3/the-journey-to-arch-5d7o)
 <!-- BLOG-POST-LIST:END -->
 
 visit my [github.io](https://h4ppyr0gu3.github.io/) blog
